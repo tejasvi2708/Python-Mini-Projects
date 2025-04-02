@@ -8,6 +8,7 @@ This repository contains three simple Python games that can be run directly in y
 2.  **Guess the Word:** This program is a simple word-guessing game where the user has to guess the characters in a randomly selected word within a limited number of attempts.
 3.  **Hangman game:** The Hangman program randomly selects a secret word from a list of secret words and the user has to guess the word. The hint will also be given.
 4.  **Rock-Paper-Scissors:** The user gets the first chance to pick the option between Rock, paper, and scissors. After the computer select from the remaining two choices(randomly), the winner is decided as per the rules.
+5.  **FLAMES Game:** It is the game where two players can check their relationship status from the word FLAMES, i.e, [Friendship, Love, Affection, Marriage, Enemy, Sweetheart] It is not the prediction, just for fun. So just enjoy!!
 
 ## Prerequisites
 
@@ -55,8 +56,13 @@ This repository contains three simple Python games that can be run directly in y
  
         ```bash
         python project4.py
-        ``` 
-         
+        ```
+     * **FLAMES Game:**
+  
+          ```bash
+        python project5.py
+        ```
+          
 4.  **Follow the On-Screen Instructions:**
 
     Each game will provide instructions within the terminal on how to play. Simply follow the prompts to interact with the game.
